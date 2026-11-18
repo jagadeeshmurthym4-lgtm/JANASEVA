@@ -1,0 +1,10 @@
+{
+  "description": "Helps Indian citizens discover welfare schemes, check eligibility, and understand how to apply in their preferred language.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
